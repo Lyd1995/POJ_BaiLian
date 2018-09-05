@@ -38,3 +38,5 @@ def min_dp(dp,s,n,m):
     dp[n].append(str(min))
 
 main()
+
+
